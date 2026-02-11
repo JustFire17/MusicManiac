@@ -1,8 +1,5 @@
 # 🎸 MusicManiac: 3D Arena Shooter
 
-<p align="center">
-  <img src="images/main_screenshot.png" alt="MusicManiac Gameplay" width="800">
-</p>
 
 ## 📋 Overview
 **MusicManiac** is a 3D arena shooter developed for the Computer Graphics course at the **University of Algarve** (2024/2025). The project focuses on low-level 3D rendering using **Python and OpenGL**, giving full control over the rendering pipeline, shaders, and matrix transformations.
